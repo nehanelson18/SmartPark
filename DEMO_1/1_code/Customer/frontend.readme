@@ -1,0 +1,19 @@
+To Run the front end proceed to this link: https://boiling-river-38785.herokuapp.com/
+To test Use Cases:
+Use Case 1: Signup 
+Put in an email and password to be able to login.
+Use Case 2: Login
+Once Logged in user can now access their account where they can make/edit reservations,edit account
+where they can add new vehicles, credit card information and change account password.
+Use Case 4: Reservations
+User can click on Make a Reservation. This page is not completed yet, however user can scroll through
+months. After the pages are integrated with the back end, user should be able to choose a date, enter
+the start and end time to make a reservation.
+
+In order to Edit a reservation, currently this page is blank, but once completed User should be able to
+access the reservations they have created and be able to change the date and time.
+
+Use Case 7: Billing 
+For the Billing page the user should be able to see the total amount owed. They can enter their creditcard
+number CVC, and expiration date and click Pay Now. Once the amount owed is successfully paid the user should
+recieve an email confirmation. 
